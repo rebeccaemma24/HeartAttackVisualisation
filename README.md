@@ -9,3 +9,6 @@ Practice of understanding a novel dataset looking at predicting heart attack, us
 ## Objectives
 1. Exploratory data analysis on a novel dataset
 2. Visualisations of data
+
+## Navigation
+- See heart_attack.md for clear markdown file of R code and results, alongside graphs/visualisations. Associated figures are located in heart_attack_files. 
